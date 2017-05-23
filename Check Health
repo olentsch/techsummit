@@ -1,0 +1,5 @@
+curl -X GET \
+  'https://10.68.69.102:9440/PrismGateway/services/rest/v2.0/clusters/?projection=HEALTH' \
+  -H 'authorization: Basic YWRtaW46bnV0YW5peC80dQ==' \
+  -H 'cache-control: no-cache' \
+  -H 'postman-token: 43a4925a-e8bd-092c-991b-e71ca1776655'
